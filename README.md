@@ -22,7 +22,7 @@ About Data Source:
 Lichman, M. (2013). UCI Machine Learning Repository [http://archive.ics.uci.edu/ml]. Irvine, CA: University of California, School of Information and Computer Science.)
 
 
-Data Dictionary
+**Data Dictionary**
 ID	Unique ID of each client
 
 LIMIT_BAL	Amount of given credit (NT dollars):  It includes both the individual consumer credit and his/her family (supplementary) credit 
@@ -74,7 +74,7 @@ PAY_AMT6	Amount of previous payment in April, 2005 (NT dollar)
 default_payment_next_month	Target Variable: Default payment (1=yes, 0=no)
  
 
-Evaluation Metric
+**Evaluation Metric:**
 
 Submissions are evaluated on area under the ROC curve between the predicted probability and the observed target.
 
