@@ -23,6 +23,7 @@ Lichman, M. (2013). UCI Machine Learning Repository [http://archive.ics.uci.edu/
 
 
 **Data Dictionary**
+
 ID	Unique ID of each client
 
 LIMIT_BAL	Amount of given credit (NT dollars):  It includes both the individual consumer credit and his/her family (supplementary) credit 
